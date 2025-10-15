@@ -1,0 +1,53 @@
+# 🏠 Descrição Traduzida do Dataset - Ames Housing (Formato Markdown)
+
+| Variável | Descrição Traduzida |
+|-----------|---------------------|
+| **MSSubClass** | Identifica o tipo de residência envolvida na venda (ex.: térrea, sobrado, duplex, PUD, etc.) |
+| **MSZoning** | Classificação geral de zoneamento (Agrícola, Comercial, Residencial Alta/Baixa/Média Densidade, etc.) |
+| **LotFrontage** | Comprimento da frente do terreno em metros lineares conectados à rua |
+| **LotArea** | Tamanho total do terreno em pés quadrados |
+| **Street** | Tipo de acesso à rua (Gravel = Cascalho, Pave = Pavimentada) |
+| **Alley** | Tipo de acesso por beco (Cascalho, Pavimentado ou Sem acesso) |
+| **LotShape** | Forma geral do terreno (Regular, Levemente irregular, Irregular, etc.) |
+| **LandContour** | Planicidade do terreno (Plano, Elevado, Encosta, Depressão) |
+| **Utilities** | Tipo de utilidades disponíveis (Públicas, fossa séptica, apenas energia, etc.) |
+| **LotConfig** | Configuração do lote (Interno, Esquina, Cul-de-sac, Frente dupla ou tripla) |
+| **LandSlope** | Inclinação do terreno (Suave, Moderada, Acentuada) |
+| **Neighborhood** | Localização física dentro da cidade de Ames |
+| **Condition1/2** | Proximidade a ruas principais, ferrovias ou características positivas (parques, áreas verdes) |
+| **BldgType** | Tipo de residência (Unifamiliar, Duplex, Geminada, Sobrado, etc.) |
+| **HouseStyle** | Estilo da residência (1 andar, 2 andares, nível dividido, etc.) |
+| **OverallQual** | Qualidade geral dos materiais e acabamento (1 = Muito Ruim, 10 = Excelente) |
+| **OverallCond** | Condição geral da casa (1 = Muito Ruim, 10 = Excelente) |
+| **YearBuilt** | Ano de construção original |
+| **YearRemodAdd** | Ano da última reforma ou ampliação |
+| **RoofStyle** | Tipo de telhado (Plano, 2 águas, 4 águas, Mansarda, etc.) |
+| **RoofMatl** | Material do telhado (Telha, Metálico, Madeira, Asfalto, etc.) |
+| **Exterior1st / 2nd** | Material externo principal e secundário (Vinil, Tijolo, Madeira, Estuque, etc.) |
+| **MasVnrType / Area** | Tipo e área de revestimento de alvenaria (Tijolo, Pedra, etc.) |
+| **ExterQual / ExterCond** | Qualidade e condição do material externo (Excelente, Boa, Média, Ruim, Péssima) |
+| **Foundation** | Tipo de fundação (Concreto, Bloco, Pedra, Madeira, etc.) |
+| **BsmtQual / BsmtCond** | Altura e condição geral do porão (Excelente, Boa, Média, etc.) |
+| **BsmtExposure** | Presença de janelas ou saída externa no porão |
+| **BsmtFinType1 / 2** | Tipo de área acabada do porão (Boa, Média, Lazer, Inacabada) |
+| **TotalBsmtSF** | Área total do porão em pés quadrados |
+| **Heating / HeatingQC** | Tipo e qualidade do sistema de aquecimento |
+| **CentralAir** | Possui ar-condicionado central (Y = Sim, N = Não) |
+| **Electrical** | Sistema elétrico (Disjuntores, Fusível 60A, etc.) |
+| **1stFlrSF / 2ndFlrSF** | Área em pés quadrados do 1º e 2º andares |
+| **GrLivArea** | Área útil total acima do solo |
+| **FullBath / HalfBath** | Banheiros completos e lavabos acima do solo |
+| **BedroomAbvGr** | Quartos acima do solo (não inclui porão) |
+| **KitchenAbvGr / KitchenQual** | Cozinhas e qualidade da cozinha (Excelente, Boa, Média, Ruim) |
+| **TotRmsAbvGrd** | Total de cômodos acima do solo (exclui banheiros) |
+| **Functional** | Funcionalidade geral da casa (Típica, Pequenas / Grandes deduções, Danificada, etc.) |
+| **Fireplaces / FireplaceQu** | Número e qualidade das lareiras |
+| **GarageType / GarageArea / GarageQual** | Tipo, tamanho e qualidade da garagem |
+| **PavedDrive** | Entrada pavimentada (Sim, Parcial, Não) |
+| **WoodDeckSF / OpenPorchSF / EnclosedPorch** | Áreas externas (deck, varanda aberta, varanda fechada) |
+| **PoolArea / PoolQC** | Área e qualidade da piscina |
+| **Fence** | Tipo de cerca (Privativa, Madeira, Arame, etc.) |
+| **MiscFeature / MiscVal** | Recursos adicionais e seus valores (galpão, quadra, elevador, etc.) |
+| **MoSold / YrSold** | Mês e ano da venda |
+| **SaleType** | Tipo de venda (Convencional, à vista, novo, judicial, etc.) |
+| **SaleCondition** | Condição da venda (Normal, Anormal, entre familiares, etc.) |
